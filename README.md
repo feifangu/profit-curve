@@ -1,2 +1,2 @@
-# profit-curve
-Profit curve of a hiring case.
+# Talent churn
+Data mining process in a talent churn case, including drawing profit curve.
