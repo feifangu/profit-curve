@@ -1,2 +1,2 @@
-# Talent churn
-Data mining process in a talent churn case, including drawing profit curve.
+# Profit curve
+This code performs complete data mining in a talent churn case, including drawing profit curve.
